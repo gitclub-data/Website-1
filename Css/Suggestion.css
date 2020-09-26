@@ -25,7 +25,7 @@ body{
 .main{
 	margin-right: 5px;
 	margin-left: 5px;
-	height: 1000px;
+	height: 800px;
 	width: 1335px;
 }
 
@@ -156,7 +156,7 @@ body{
 }
 
 .containter{
-	height: 950px;
+	height: 750px;
 	width: 930px;
 	padding: 2px;
 	margin-left: 40px;
@@ -221,6 +221,96 @@ body{
 
 }
 */
+
+.getting-update{
+	margin: 40px;
+	margin-left: 200px
+	width: 220px;
+	height: 50px;
+}
+
+.getting-update center p{
+	font-size: 20px;
+	padding-top: 10px;
+	margin: 10px;
+}
+
+.Submit-mail{
+	width: 150px;
+	height: 40px;
+	font-size: 14px;
+	border-radius: 5px;
+}
+.mail{
+	width: 400px;
+	height: 20px;
+	font-size: 16px;
+	background-color: white;
+  	background-image: url("../Images/icon-3.png");
+  	background-size: 30px;
+	background-position: 10px 8px; 
+  	background-repeat: no-repeat;
+	border: 2px solid #ccc;
+  	border-radius: 10px;
+	padding: 12px 20px 12px 40px;
+}
+.Suggestions{
+	border: dashed;
+	display: inline-block;
+	width: 600px;
+	height: 500px;
+	margin-top: 50px;
+	margin-left: 160px;
+}
+
+
+.sugg-heading{
+	font-family: 'Peddana', serif;
+	font-size: 35px;
+	margin: 5px;
+	margin-bottom: 0px;
+}
+
+.E-mail{
+	font-family: 'Libre Baskerville', serif;
+	margin: 40px;
+	margin-bottom: 20px;
+}
+
+.suggest-email{
+	width: 450px;
+	height: 20px;
+	font-size: 16px;
+	background-color: white;
+  	background-image: url("../Images/icon-3.png");
+  	background-size: 30px;
+	background-position: 10px 8px; 
+  	background-repeat: no-repeat;
+	border: 2px solid #ccc;
+  	border-radius: 10px;
+	padding: 12px 20px 12px 40px;
+}
+
+.sugg{
+	width: 450px;
+	height: 80px;
+	font-size: 16px;
+	background-color: white;
+  	background-size: 30px;
+	background-position: 10px 8px; 
+  	background-repeat: no-repeat;
+	border: 2px solid #ccc;
+  	border-radius: 10px;
+	padding: 12px 20px 12px 40px;
+}
+
+.sugg-submit{
+	width: 150px;
+	height: 40px;
+	font-size: 14px;
+	border-radius: 5px;
+	margin: 15px;
+}
 .footer{
 	margin-left: 3px;
 	border-radius: 5px;
